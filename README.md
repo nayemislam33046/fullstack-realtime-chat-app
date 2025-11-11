@@ -23,51 +23,30 @@ It supports:
 | Cloud Storage | Google Drive API |
 | Hosting | Render (Backend), Vercel (Frontend) |
 
----
-
-## 📁 Project Structure
-
-├── backend/ # Laravel 12 API
-│ ├── app/
-│ ├── routes/
-│ ├── config/
-│ ├── public/
-│ └── ...
-├── frontend/ # React.js (Vite) app
-│ ├── src/
-│ ├── public/
-│ ├── vite.config.js
-│ └── ...
-└── README.md
-
 
 ## Test Locally 
 
 ## ⚙️ Backend Setup (Laravel 12 + Pusher + Google Drive + Neon)
 
-### 1️⃣ Clone Repository
-```bash
+````bash
 git clone https://github.com/your-username/realtime-chat-app.git
 cd realtime-chat-app/backend
+````
 
+```bash
 # Run backend
 cd backend
 npm install 
 composer install
 for the realtime update first of all setup pushserjs and get and adjust api key or secret key realated to the .env
-for the google Drive integration setup yaza-putu package
+for the google Drive integration you can setup [yaza-putu package](https://github.com/yaza-putu/laravel-google-drive-storage)
 php artisan serve
 
+```
 # Run frontend
 cd frontend
 npm install
 npm run dev
 
 
-👨‍💻 Author
 
-Nayem Islam
-Full-Stack Developer 🚀
-📧 Email: your-email@example.com
-🌐 Portfolio: https://your-portfolio-link.com
-🐙 GitHub:

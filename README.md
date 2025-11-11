@@ -38,8 +38,8 @@ cd realtime-chat-app/backend
 cd backend
 npm install 
 composer install
-for the realtime update first of all setup pushserjs and get and adjust api key or secret key realated to the .env
-for the google Drive integration you can setup (yaza-putu package)[https://github.com/yaza-putu/laravel-google-drive-storage]
+for the realtime update first of all setup pushserjs and get and adjust api key or secret key realated key to the .env
+for the google Drive integration you can setup to follow this link https://github.com/yaza-putu/laravel-google-drive-storage
 php artisan serve
 ```
 

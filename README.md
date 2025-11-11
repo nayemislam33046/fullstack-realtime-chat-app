@@ -56,8 +56,8 @@ Nayem Islam
 
 Full-Stack Developer 🚀
 
-📧 Email: your-email@example.com
+📧 Email: nayemtruthness@gmail.com
 
-🌐 Portfolio: https://your-portfolio-link.com
+🌐 Portfolio: [My Portfolio](https://my-portfolio-beta-six-62.vercel.app/)
 
-🐙 GitHub: https://github.com/your-username
+🐙 GitHub: [My Github Account](https://github.com/nayemislam33046)

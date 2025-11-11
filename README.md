@@ -26,8 +26,6 @@ It supports:
 
 ## Test Locally 
 
-## ⚙️ Backend Setup (Laravel 12 + Pusher + Google Drive + Neon)
-
 ````bash
 git clone https://github.com/your-username/realtime-chat-app.git
 cd realtime-chat-app/backend

@@ -39,14 +39,21 @@ cd backend
 npm install 
 composer install
 for the realtime update first of all setup pushserjs and get and adjust api key or secret key realated to the .env
-for the google Drive integration you can setup [yaza-putu package](https://github.com/yaza-putu/laravel-google-drive-storage)
+for the google Drive integration you can setup (yaza-putu package)[https://github.com/yaza-putu/laravel-google-drive-storage]
 php artisan serve
-
 ```
+
+````bash
 # Run frontend
 cd frontend
 npm install
 npm run dev
+````
 
+👨‍💻 Author
 
-
+Nayem Islam
+Full-Stack Developer 🚀
+📧 Email: your-email@example.com
+🌐 Portfolio: https://your-portfolio-link.com
+🐙 GitHub: https://github.com/your-username

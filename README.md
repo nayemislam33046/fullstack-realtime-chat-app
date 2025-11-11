@@ -53,7 +53,11 @@ npm run dev
 👨‍💻 Author
 
 Nayem Islam
+
 Full-Stack Developer 🚀
+
 📧 Email: your-email@example.com
+
 🌐 Portfolio: https://your-portfolio-link.com
+
 🐙 GitHub: https://github.com/your-username

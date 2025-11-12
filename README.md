@@ -1,6 +1,6 @@
 # 💬 Real-Time Chat Application  
 
-This is The [Live Link](https://chat-app-frontend-six-red.vercel.app/)
+This is The [Live Demo](https://chat-app-frontend-six-red.vercel.app/)
 
 **Laravel 12 + React.js + PusherJS + Google Drive + Neon + Render + Vercel**
 

@@ -36,12 +36,21 @@ cd realtime-chat-app/backend
 
 ```bash
 # Run backend
+
 cd backend
-npm install 
+
+npm install
+
 composer install
+
 for the realtime update first of all setup pushserjs and get and adjust api key or secret key realated key to the .env
+
 for the google Drive integration you can setup to follow this link https://github.com/yaza-putu/laravel-google-drive-storage
+
+you have to setup .env file locally 
+
 php artisan serve
+
 ```
 
 ````bash
